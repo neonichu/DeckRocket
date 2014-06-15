@@ -1,0 +1,17 @@
+{
+  "uuid": "3cb66d85-8787-4c46-9667-af74c94c5922",
+  "shortName": "DeckPebble",
+  "longName": "DeckPebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
